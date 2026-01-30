@@ -47,7 +47,7 @@ As a member of **Namibia's National AI Technical Advisory Committee**, I activel
 ## 🏆 Recent Highlights
 
 - **🎖️ National AI Committee Member:** Advising on national AI policy (NCRST, Namibia).
-- **🚀 Lead Software Engineer:** Modernizing a legacy ERP system into a PWA at WCE.
+- **🚀 Software Engineer:** Modernizing a legacy ERP system into a PWA at WCE.
 - **📄 IEEE Published Researcher:** For work on ML in agricultural health.
 - **🏅 Top 10 AI Student:** Nominated among top AI students at NUST Namibia.
 
